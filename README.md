@@ -56,9 +56,10 @@ A link to a spreadsheet that includes the original and final project plan projec
     ![image](https://user-images.githubusercontent.com/106584802/184476910-7d61b513-560f-48b5-a824-47660d0643d3.png)
 
 * Make prediction using the below command:
-        ./make_predict_azure_app.sh
-        
-        ![image](https://user-images.githubusercontent.com/106584802/184476938-b4801b9d-77bc-4a60-acdf-f1382a1a6194.png)
+
+                ./make_predict_azure_app.sh
+                
+     ![image](https://user-images.githubusercontent.com/106584802/184477175-a4ccefaf-077c-4254-89ae-62fe946b5836.png)
 
 
 * Next, create the pipeline in Azure DevOps. More information on this process can be found here. The basic steps to set up the pipeline are:
